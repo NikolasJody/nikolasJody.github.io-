@@ -4,3 +4,50 @@ img {
 body {
     text-align: center;
 }
+body {
+    background-image: url("https://i.imgur.com/kxIYejb.gif");
+    background-color: #cccccc;
+    background-size: cover;
+}
+h1 {
+    color: white;
+    font-size: 50px;
+}
+p {
+    color: white;
+    font-size: 45px;
+    
+}
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+a {
+    font-size: 40px;
+    color: White
+    
+}
